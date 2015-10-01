@@ -1,0 +1,17 @@
+﻿Build started 12/1/2014 3:04:27 AM.
+     1>Project "C:\Users\James\Documents\Visual Studio 2013\Projects\GameOfLife\Game Of Life\Game Of Life\Game Of Life.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Button.cpp Grid.cpp Rules.cpp Source.cpp
+         Button.cpp
+     1>c:\users\james\documents\visual studio 2013\projects\gameoflife\game of life\game of life\Button.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         Grid.cpp
+     1>c:\users\james\documents\visual studio 2013\projects\gameoflife\game of life\game of life\Button.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         Rules.cpp
+     1>c:\users\james\documents\visual studio 2013\projects\gameoflife\game of life\game of life\Button.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         Source.cpp
+     1>c:\users\james\documents\visual studio 2013\projects\gameoflife\game of life\game of life\Button.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+     1>Done Building Project "C:\Users\James\Documents\Visual Studio 2013\Projects\GameOfLife\Game Of Life\Game Of Life\Game Of Life.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.60

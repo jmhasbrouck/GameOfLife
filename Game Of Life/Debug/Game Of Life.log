@@ -1,0 +1,16 @@
+﻿Build started 10/1/2015 10:06:54 AM.
+     1>Project "C:\Users\James\Documents\Visual Studio 2013\Projects\GameOfLife\Game Of Life\Game Of Life\Game Of Life.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\James\Documents\Visual Studio 2013\Projects\GameOfLife\Game Of Life\Debug\Game Of Life.exe" /INCREMENTAL /NOLOGO SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib SDL2_mixer.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\James\Documents\Visual Studio 2013\Projects\GameOfLife\Game Of Life\Debug\Game Of Life.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\James\Documents\Visual Studio 2013\Projects\GameOfLife\Game Of Life\Debug\Game Of Life.lib" /MACHINE:X86 Debug\Button.obj
+         Debug\Grid.obj
+         Debug\Rules.obj
+         Debug\Source.obj
+     1>MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+     1>SDL2main.lib(SDL_windows_main.obj) : error LNK2019: unresolved external symbol __imp__fprintf referenced in function _ShowError
+     1>SDL2main.lib(SDL_windows_main.obj) : error LNK2019: unresolved external symbol __imp____iob_func referenced in function _ShowError
+     1>C:\Users\James\Documents\Visual Studio 2013\Projects\GameOfLife\Game Of Life\Debug\Game Of Life.exe : fatal error LNK1120: 2 unresolved externals
+     1>Done Building Project "C:\Users\James\Documents\Visual Studio 2013\Projects\GameOfLife\Game Of Life\Game Of Life\Game Of Life.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.18
