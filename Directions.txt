@@ -1,0 +1,8 @@
+Directions:
+
+Red button-Go
+Blue button-Toggle Grid
+Green Button - create X pattern
+White Button - Clear Screen
+Magenta Button - Random Colors
+Yellow Button - Random
